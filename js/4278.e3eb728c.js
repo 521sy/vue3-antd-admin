@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[4278],{54278:function(n,u,e){e.d(u,{GP:function(){return a}});var t=e(27484);const a=e.n(t)()}}]);

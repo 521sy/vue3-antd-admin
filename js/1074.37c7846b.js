@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[1074],{81074:function(t,e,n){n.r(e),e.default={settings:"settings",about:"about"}}}]);

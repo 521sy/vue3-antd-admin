@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[1007],{91007:function(a,n,e){e.r(n),n.default={dashboard:"仪表盘",about:"关于",workbench:"工作台",analysis:"分析页"}}}]);

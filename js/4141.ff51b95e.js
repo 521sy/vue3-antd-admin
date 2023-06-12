@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvue3_antd_admin=self.webpackChunkvue3_antd_admin||[]).push([[4141],{84141:function(a,n,s){s.r(n),n.default={dashboard:"Dashboard",about:"About",workbench:"Workbench",analysis:"Analysis"}}}]);
